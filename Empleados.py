@@ -19,4 +19,5 @@ class Empleado:
 
     @nombre.setter
      def nombre(self,nombre):
-            self._nombre = nombre
+             self._nombre = nombre
+             #dsgdfgdfg
